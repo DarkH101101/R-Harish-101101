@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @R-Harish-101101
-- 👀 I’m interested in games
-- 🌱 I’m currently learning game development , blender , flutter, C,c++,Java,python,html
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @DarkH-101101
+- 👀 I’m interested in games and game development .
+- 🌱 I’m currently learning game development(Unity) ,blender ,C# ,Flutter ,C ,C++ ,Java ,Python ,Html ,CSS
+- 💞️ I’m looking to collaborate on ... nothing yet....
+- 📫 How to reach me ... you can't I live in the shadows
 
 <!---
 R-Harish-101101/R-Harish-101101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
